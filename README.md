@@ -9,4 +9,7 @@ Design principles / assumptions are.
 
 1. Follow IFC as much as possible
 2. Use HTML5 principles to solve all problems
-3. Have fun
+3. Make it super easy to hack
+4. Have fun
+
+4/10/22: Canøt embed the children - Lit overwrites it... looks like need to do something called slotting - but this seems to increase the complexity and reduce the fun...
