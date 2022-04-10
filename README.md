@@ -1,4 +1,12 @@
 # Minimal POC for describing buildings using custom HTML entities (Tags)
-Thesis Josep
+Developed based on conversations with [JosepMariaPujol](https://github.com/JosepMariaPujol/HTML-Build) 
 
-TM: 30-03-2022 Added Option1 and 2. This should be discussed in the posted issue, but it looks like option 1 is more successful...
+The original idea was to use custom HTML entities to represent building entities, however this proved idfficult with vanilla HTML and ended up using DIVs and giving them custom CSS classes to represent the building entities.
+
+So now te repo uses the YAX custom entities tutorial to provide a building as HTML example project, that others can build in.
+
+Design principles / assumptions are.
+
+1. Follow IFC as much as possible
+2. Use HTML5 principles to solve all problems
+3. Have fun
