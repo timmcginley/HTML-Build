@@ -1,15 +1,33 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 	<head> <!--- we want this to contain project information --->
-		<title>A building / Project Name</title> <!--- name of the project --->
+		<title>HTML Building</title> <!--- name of the project --->
 		<link rel="stylesheet" href="Option-1.css">
 				<!--- this could contain links to the files that contain the the styling / materials / properties and classes for the project -->		
 		</link> 
 		<script> <!-- this could contain lots of cool stuff!!! ---></script>
+		
+		 <script type="module">
+		import {LitElement, html, css} from 'https://jspm.dev/lit-element@2';
+
+		class MyProject extends LitElement {
+		  static get styles() {
+			return css`.greeting { color: red; }`;
+		  }
+		  render() {
+			return html`<h1 class="greeting">Awesome Project!</h1>`;
+		  }
+		}
+		
+		
+	// this line defines the entity - remember the '-' in the name!
+    customElements.define('pro-ject', MyProject);
+    </script>
 	</head> <!--- end of the project information -->
 
 	<body>
 		This is a minimal template init.
-		<div class="project">
+		<pro-ject>
 		This is the project
 			<div class="site">
 				<div class="building">
@@ -30,7 +48,7 @@
 			</div>
 		</div>
 
-
+		</pro-ject>
 	</body>
 </html>
 
