@@ -1,8 +1,27 @@
-# Minimal POC for describing buildings using custom HTML entities (Tags)
+# Building description using custom HTML entities
 Developed based on conversations with [JosepMariaPujol](https://github.com/JosepMariaPujol/HTML-Build)
 for his super awesome thesis project.
 
 The idea is to use custom HTML entities to represent (ifc) building entities with minmal CSS to define layers of attributes and properties.
+
+```HTML
+<html>
+	<head> <!--- this contains property links and entity attributes in css ---> </head>
+	<body>
+		<project->
+			<site->
+				<building->
+					<core->
+						<floor-></floor->
+					</core->
+				</building->
+			</site->
+		</project->
+	</body>
+<html>
+```
+
+![html-build-basic](img/preview.png)
 
 Design principles / assumptions are.
 
