@@ -2,7 +2,7 @@
 Developed based on conversations with [JosepMariaPujol](https://github.com/JosepMariaPujol/HTML-Build)
 for his super awesome thesis project.
 
-The idea is to use custom HTML entities to represent building entities with minmal CSS to define layers of attributes and properties.
+The idea is to use custom HTML entities to represent (ifc) building entities with minmal CSS to define layers of attributes and properties.
 
 Design principles / assumptions are.
 
