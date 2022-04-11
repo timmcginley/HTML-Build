@@ -1,4 +1,4 @@
-# Minimal POC for describing buildings using custom HTML entities (Tags)
+# Building description using custom HTML entities
 Developed based on conversations with [JosepMariaPujol](https://github.com/JosepMariaPujol/HTML-Build)
 for his super awesome thesis project.
 
