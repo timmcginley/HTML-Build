@@ -6,10 +6,9 @@ The idea is to use custom HTML entities to represent building entities with minm
 
 Design principles / assumptions are.
 
-1. Follow IFC as much as possible
-2. Use HTML5 principles to solve all problems
-3. Make it super easy to hack
-4. Have fun
+1. Use HTML5 principles to solve all problems
+2. Follow IFC / standards as much as possible
+3. Make it super easy and fun to hack
 
 This repo contains a minimal example with the basic CSS file. Other examples will be added soon.
 
