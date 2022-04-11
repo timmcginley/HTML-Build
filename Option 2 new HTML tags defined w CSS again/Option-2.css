@@ -1,6 +1,7 @@
 
 
-p-roject {
+project- {
+	display:block;
 	background-color:#ccc;
 	width:100%;
 	height:200px;
@@ -8,7 +9,8 @@ p-roject {
 	color:#1b1b1b;
 }
 
-b-uilding {
+building- {
+	display:block;
 	background-color:#ddd;
 	margin: auto;
 	height:200px;
@@ -18,11 +20,13 @@ b-uilding {
 	color:#1b1b1b;
 }
 
-s-ite {
+site- {
+	display:block;
 	margin-top: auto;
 	padding-left:20px;
 }
-segment {
+segment- {
+	display:block;
 	background-color:#fff;
 	border-style: dotted;
 	border-color: #000;
@@ -33,7 +37,8 @@ segment {
 	color:#1b1b1b;
 }
 
-f-loor {
+floor- {
+	display:block;
 	background-color:#eee;
 	margin: auto;
 	padding:2px;
