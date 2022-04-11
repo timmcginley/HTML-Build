@@ -1,5 +1,5 @@
 # Minimal POC for describing buildings using custom HTML entities (Tags)
-Developed based on conversations with [JosepMariaPujol] (https://github.com/JosepMariaPujol/HTML-Build)
+Developed based on conversations with [JosepMariaPujol](https://github.com/JosepMariaPujol/HTML-Build)
 for his super awesome thesis project.
 
 The idea is to use custom HTML entities to represent building entities with minmal CSS to define layers of attributes and properties.
