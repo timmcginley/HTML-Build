@@ -4,6 +4,8 @@ for his super awesome thesis project.
 
 The idea is to use custom HTML entities to represent (ifc) building entities with minmal CSS to define layers of attributes and properties.
 
+![html-build-basic](img/preview.png)
+
 Design principles / assumptions are.
 
 1. Use HTML5 principles to solve building modelling challenges
