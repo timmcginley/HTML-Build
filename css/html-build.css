@@ -19,6 +19,7 @@ core- {
 	position:relative;
 	padding:2px;
 	left:100px;
+	margin-bottom:0px;
 	border-color: #000;
 	width:50px;
 	color:#1b1b1b;
@@ -29,11 +30,14 @@ building- {
 	background-color:#ddd;
 	margin: auto;
 	padding:2px;
+	padding-top:0px;
+	padding-bottom:0px;
 	border-color: #000;
 	width:258px;
 	color:#1b1b1b;
 	border-left: 2px dashed black;
 	border-right: 2px dashed black;
+	border-top: 4px solid black;
 	min-height: 20px;
 	overflow: hidden;
 }
@@ -69,12 +73,13 @@ floor- {
 }
 foundation- {
 	display:block;
-	background-color:#eee;
+	background-color:#C4A484;
 	margin: auto;
+	padding-top:0px;
 	padding:2px;
 	padding-left:10px;
-	width:350px;
-	margin-top:2px;
+	width:450px;
+	height:20px;
 	color:#1b1b1b;
 	border-top: 4px solid brown;
 }
