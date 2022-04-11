@@ -8,15 +8,15 @@ The idea is to use custom HTML entities to represent (ifc) building entities wit
 <html>
 	<head> <!--- we want this to contain project information ---> </head>
 	<body>
-			<project->
-				<site->
-					<building->
-						<core->
-							<floor-></floor->
-						</core->
-					</building->
-				</site->
-			</project->
+		<project->
+			<site->
+				<building->
+					<core->
+						<floor-></floor->
+					</core->
+				</building->
+			</site->
+		</project->
 	</body>
 <html>
 ```
