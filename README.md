@@ -6,7 +6,7 @@ The idea is to use custom HTML entities to represent (ifc) building entities wit
 
 ```HTML
 <html>
-	<head> <!--- we want this to contain project information ---> </head>
+	<head> <!--- this contains property links and entity attributes in css ---> </head>
 	<body>
 		<project->
 			<site->
