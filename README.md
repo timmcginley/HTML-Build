@@ -1,9 +1,8 @@
 # Minimal POC for describing buildings using custom HTML entities (Tags)
-Developed based on conversations with [JosepMariaPujol](https://github.com/JosepMariaPujol/HTML-Build) 
+Developed based on conversations with [JosepMariaPujol] (https://github.com/JosepMariaPujol/HTML-Build)
+for his super awesome thesis project.
 
-The original idea was to use custom HTML entities to represent building entities, however this proved idfficult with vanilla HTML and ended up using DIVs and giving them custom CSS classes to represent the building entities.
-
-So now te repo uses the [YAX custom entities tutorial](https://tutorials.yax.com/learn/your-first-custom-html-tag/index.html) to provide a building as HTML example project, that others can build in.
+The idea is to use custom HTML entities to represent building entities with minmal CSS to define layers of attributes and properties.
 
 Design principles / assumptions are.
 
@@ -12,4 +11,5 @@ Design principles / assumptions are.
 3. Make it super easy to hack
 4. Have fun
 
-4/10/22: Canøt embed the children - Lit overwrites it... looks like need to do something called ][slotting](https://lit.dev/playground/#sample=examples/slotting-children) - but this seems to increase the complexity and reduce the fun...
+This repo contains a minimal example with the basic CSS file. Other examples will be added soon.
+
