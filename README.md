@@ -23,13 +23,14 @@ The idea is to use custom HTML entities to represent (ifc) building entities wit
 
 ![html-build-basic](img/preview.png)
 
-Design principles / assumptions are.
+Design principles / assumptions are the approach should:
 
-1. The index.html file should be able to be opened in a modern browser and provide a useful description of the building
-2. Use HTML5 principles to solve building modelling challenges
-3. Follow IFC / standards as much as possible
-4. Super easy to learn and fun for humans to hack
-5. Provide a common file format across softwares / systems
+1. Be based on an index.html file that can provide a useful description of the building in a modern browser.
+2. Use HTML5 principles to solve building modelling challenges.
+3. Provide a common **human editable** file format across softwares / systems following IFC / ISO / National standards as much as possible.
+4. Standardise a set of custom entities for building elements. 
+5. Be super easy to learn [(from)](https://itc.scix.net/paper/w78-2021-paper-070) and **fun for humans** to hack.
+6. Be extendable to Linked data, Speckle streams, IFC.js and other emerging AEC web technologies.
 
 This repo contains a minimal example with the basic CSS file. Other examples will be added soon.
 
