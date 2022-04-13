@@ -20,6 +20,23 @@ Basic building description result in HTML with some CSS
 ### 2) Standardised
 * Provide a common file format across softwares / systems following IFC / ISO / National standards as much as possible.
 * Use [HTML5](https://en.wikipedia.org/wiki/HTML5) principles to solve building modelling challenges, for instance IfcPropertySets would be defined in Cascading Style Sheets [(CSS)](https://www.w3schools.com/css/default.asp).
+```CSS
+project- {
+	display:block;
+	padding:5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-color:#ccc;
+	width:100%;
+	border:none;
+	color:#1b1b1b;
+	margin:auto;
+	padding-bottom:50px;
+}
+```
+<p align = "center">
+CSS example for project- custom entity (just display) instance attributes and properties would be contained in further CSS files declared in the document head.
+</p>
 
 ### 3) Human editable
 * Be super easy to learn [(from)](https://itc.scix.net/paper/w78-2021-paper-070)
