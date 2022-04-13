@@ -51,7 +51,9 @@ segment- {
 	display:block;
 	background-color:#fff;
 	border-style: dotted;
+	position:relative;
 	border-color: #000;
+	left:-100px;
 	margin: auto;
 	padding:2px;
 	width:225px;
@@ -70,6 +72,18 @@ floor- {
 	margin-top:2px;
 	color:#1b1b1b;
 	border-bottom: 4px solid black;
+}
+mep- {
+	display:block;
+	background-color:#fff;
+	position:relative;
+	padding-left:10px;
+	width:220px;
+	height:0px;
+	left:0px;
+	margin-top:0px;
+	color:#1b1b1b;
+	border-top: 2px dashed cyan;
 }
 foundation- {
 	display:block;
