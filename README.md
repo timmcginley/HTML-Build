@@ -32,15 +32,17 @@ Define a set of custom entities for building elements within an index.html file 
 * Provide a useful description of the building wihtout having to open the full 3d model.
 * Be possible to adapt this view to use cases.
 
-### 2) editable common and light format
-* Provide a common **human editable** file format across softwares / systems following IFC / ISO / National standards as much as possible.
+### 2) Standardised
+* Provide a common file format across softwares / systems following IFC / ISO / National standards as much as possible.
 * Use [HTML5](https://en.wikipedia.org/wiki/HTML5) principles to solve building modelling challenges, for instance IfcPropertySets would be defined in Cascading Style Sheets [(CSS)](https://www.w3schools.com/css/default.asp).
 
-### 3) based on extendable custom HTML entities
-* be extendable (the custom et to include links (src) to Linked data, Speckle streams, IFC.js and other emerging AEC web technologies.
+### 3) Extendable
+* Possible to add new entities?
+* Custom entities should support links to Linked data, Speckle streams, IFC.js and other emerging AEC web technologies.
 
-### 4) Easy for humans to hack
-* Be super easy to learn [(from)](https://itc.scix.net/paper/w78-2021-paper-070) and **fun for humans** to hack.
+### 4) Human editable
+* Be super easy to learn [(from)](https://itc.scix.net/paper/w78-2021-paper-070)
+* **fun for humans** to hack.
 
 This repo contains a minimal example with the basic CSS file. Other examples will be added soon.
 
