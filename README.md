@@ -1,5 +1,5 @@
 # Building description using custom HTML entities
-Developed based on conversations with [JosepMariaPujol](https://github.com/JosepMariaPujol/HTML-Build) for his super awesome thesis project. Now expanded to include conversations with [aothms](https://github.com/aothms). In this repo they are focused this is focused on defining custom HTML entities that represent (IFC) building entities with minimal [CSS](https://www.w3schools.com/css/default.asp) to define layers of attributes and properties.
+Developed based on conversations with [JosepMariaPujol](https://github.com/JosepMariaPujol/HTML-Build) for his super awesome thesis project. Now expanded to include conversations with [aothms](https://github.com/aothms). This repo is focused on defining custom HTML entities that represent (IFC) building entities with minimal [CSS](https://www.w3schools.com/css/default.asp) to define layers of attributes and properties.
 
 ## Aim 
 Define a set of custom entities for building elements within an index.html file using HTML5 principles
