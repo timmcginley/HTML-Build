@@ -57,7 +57,7 @@ CSS example for project- custom entity (just display) instance attributes and pr
 			</site->
 		</project->
 	</body>
-<html>
+</html>
 ```
 <p align = "center">
 Basic building description example in HTML
