@@ -1,16 +1,16 @@
 # Building description using custom HTML entities
 Developed based on conversations with [JosepMariaPujol](https://github.com/JosepMariaPujol/HTML-Build) for his super awesome thesis project. Now expanded to include conversations with [aothms](https://github.com/aothms). This repo is focused on defining custom HTML entities that represent (IFC) building entities with minimal [CSS](https://www.w3schools.com/css/default.asp) to define layers of attributes and properties.
 
-This has now been further expanded to include an [IFC converter to HTML-Build](https://github.com/timmcginley/HTML-Build-IFC-Converter) repo using ifcOpenShell
+This has now been further expanded to include an [IFC converter to HTML-Build](https://github.com/timmcginley/HTML-Build-IFC-Converter) repo using ifcOpenShell. This was then explored by students in the DTU course [Advanced BIM (41934)](https://github.com/timmcginley/41934/tree/main/A2__FutureBIM).
 
 ## Aim 
-Define a set of custom entities for building elements within an index.html file using HTML5 principles
+Define a set of custom entities for building elements within an index.html file using [HTML5 principles](https://www.w3.org/TR/html-design-principles/#do-not-reinvent-the-wheel) (in the first instance, this means only using HTML, CSS and JS).
 
 ## Objectives:
 
 ### 1) Provide useful information
 * Provide a useful description of the building wihtout having to open the full 3d model.
-* Be possible to adapt this view to use cases.
+* Be possible to adapt or create a custom view for specific use cases.
 
 ![html-build-basic](img/preview.png)
 <p align = "center">
