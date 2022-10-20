@@ -50,9 +50,7 @@ CSS example for project- custom entity (just display) instance attributes and pr
 		<project->
 			<site->
 				<building->
-					<core->
-						<floor-></floor->
-					</core->
+					<floor-></floor->
 				</building->
 			</site->
 		</project->
@@ -72,10 +70,8 @@ Basic building description example in HTML
 		<project- src="[(url) link to IFC.js / speckle stream etc.]">
 			<site->
 				<building->
-					<core->
-						<!--- alternatively an entity could have link(s) --->
-						<floor-></floor->
-					</core->
+					<!--- alternatively an entity could have link(s) --->
+					<floor-></floor->
 				</building->
 			</site->
 		</project->
